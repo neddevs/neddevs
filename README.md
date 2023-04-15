@@ -1,4 +1,4 @@
-### Hi there 👋
+### Toodle-oo! this is Khyaati☁️currently learning software development🦕
 
 <!--
 **nedjemcaven/nedjemcaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
