@@ -1,5 +1,5 @@
 # 💫 About Me:
-Toodle-oo! this is Khyaati☁️currently learning software development🦕<br>👩🏻‍💻I'm currently working on becoming MERN full stack developer<br>🌱I'm learning and delving deeper into ML/AI concepts through dynamic projects!<br>🤝I'm looking to collaborate on real-time projects and open source contributions<br>✨Fun fact about me : I'm passionate about coding, books, plants and coffee! 🐥
+Toodle-oo! this is Khyaati☁️currently learning software development🦕<br>👩🏻‍💻I'm currently working on learning MERN full stack developer<br>🌱I'm also delving deeper into ML/AI concepts through dynamic projects!<br>🤝I'm looking to collaborate on real-time projects and open source contributions<br>✨Fun fact about me : I'm passionate about coding, books, plants and coffee! 🐥
 
 
 ## 🌐 Socials:
