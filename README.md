@@ -1,5 +1,5 @@
 # 💫 About Me:
-Toodle-oo! this is Khyaati☁️currently learning software development🦕<br>👩🏻‍💻I'm currently working on learning MERN full stack developer<br>🌱I'm also delving deeper into ML/AI concepts through dynamic projects!<br>🤝I'm looking to collaborate on real-time projects and open source contributions<br>✨Fun fact about me : I'm passionate about coding, books, plants and coffee! 🐥
+Toodle-oo! this is Khyaati☁️currently learning software development🦕<br>👩🏻‍💻I'm currently working on becoming MERN full stack developer<br>🌱I'm learning and delving deeper into ML/AI concepts through dynamic projects!<br>🤝I'm looking to collaborate on real-time projects and open source contributions<br>✨Fun fact about me : I'm passionate about coding, books, plants and coffee! 🐥
 
 
 ## 🌐 Socials:
@@ -10,6 +10,7 @@ Toodle-oo! this is Khyaati☁️currently learning software development🦕<br>�
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=neddevs&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neddevs&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/username=neddevs&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=neddevs&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src='https://i.pinimg.com/236x/b6/aa/78/b6aa78f29cb7389d9c56ebc63743ae00.jpg' style="height: 100px;"/>
+
+<img src='https://in.pinterest.com/pin/996280748801689782/' style="height: 400px;"/>
