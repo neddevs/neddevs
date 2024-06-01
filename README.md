@@ -7,8 +7,8 @@ Toodle-oo! this is Khyaati☁️currently learning software development🦕<br>�
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neddevs&theme=nord&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neddevs&theme=nord&show_icons=true&hide_border=true&layout=compact)
+![neddevs's Stats](https://github-readme-stats.vercel.app/api?username=neddevs&theme=prussian&show_icons=true&hide_border=true&count_private=false)
+![neddevs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neddevs&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 <img src='https://i.pinimg.com/originals/fa/5c/14/fa5c14aa09a048faa0e3196b54193f36.jpg' style="height: 160px;"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=neddevs&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
