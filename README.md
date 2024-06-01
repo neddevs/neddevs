@@ -10,6 +10,7 @@ Toodle-oo! this is Khyaati☁️currently learning software development🦕<br>�
 
 # 📊 GitHub Stats:
 <img src='https://i.pinimg.com/originals/fa/5c/14/fa5c14aa09a048faa0e3196b54193f36.jpg' style="height: 160px;"/>
+
 ![](https://github-readme-stats.vercel.app/api?username=neddevs&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neddevs&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neddevs&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
