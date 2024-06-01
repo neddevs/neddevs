@@ -1,6 +1,6 @@
 Toodle-oo! this is Khyaati☁️currently learning software development🦕<br>👩🏻‍💻I'm currently working on becoming MERN full stack developer<br>🌱I'm learning and delving deeper into ML/AI concepts through dynamic projects!<br>🤝I'm looking to collaborate on real-time projects and open source contributions<br>✨Fun fact about me : I'm passionate about coding, books, plants and coffee! 🐥
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/neddevs/neddevs/blob/output/github-contribution-grid-snake.gif)
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tannie#4919) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/honestly._.done/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khyaati-sharma-418323268/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Juxtapo29596924) 
 
